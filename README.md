@@ -57,7 +57,7 @@ https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset
 - Dashboard Design
 - Business Analysis
 
-##Key Insights
+## Key Insights
 
 • Generated total revenue of 91.83M from over 100K orders and 43K customers.
 
@@ -74,7 +74,7 @@ https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset
 • Sales trends showed seasonal fluctuations throughout the year, suggesting opportunities for targeted promotional campaigns during peak periods.
 
 
-##Areas for Improvement
+## Areas for Improvement
 
 • Investigate products with higher return rates and identify root causes such as quality issues, pricing concerns, or delivery delays.
 
